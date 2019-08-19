@@ -1,0 +1,14 @@
+C:\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.2\SearchAPI.deps.json
+C:\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.2\SearchAPI.runtimeconfig.json
+C:\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.2\SearchAPI.runtimeconfig.dev.json
+C:\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.2\SearchAPI.dll
+C:\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.2\SearchAPI.pdb
+C:\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.csprojAssemblyReference.cache
+C:\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.csproj.CoreCompileInputs.cache
+C:\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.RazorAssemblyInfo.cache
+C:\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.RazorAssemblyInfo.cs
+C:\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.AssemblyInfoInputs.cache
+C:\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.AssemblyInfo.cs
+C:\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.RazorTargetAssemblyInfo.cache
+C:\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.dll
+C:\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.pdb
