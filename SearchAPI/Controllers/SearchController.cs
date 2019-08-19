@@ -22,9 +22,9 @@ namespace SearchAPI.Controllers
 
         // GET: api/search
         [HttpGet("")]
-        public async Task<IEnumerable<SearchResult>> GetAllAsync(string query)
+        public async Task<IEnumerable<SearchResult>> GetAllAsync(string index, string query)
         {            
-            var searchResults = await _searchService.ListAsync(query);
+            var searchResults = await _searchService.ListAsync(index, query);
             return searchResults;
         }
     }

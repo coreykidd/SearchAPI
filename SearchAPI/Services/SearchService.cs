@@ -15,9 +15,9 @@ namespace SearchAPI.Services
             this._searchRepository = searchRepository;
         }
 
-        public async Task<IEnumerable<SearchResult>> ListAsync(string query)
+        public async Task<IEnumerable<SearchResult>> ListAsync(string index, string query)
         {
-            return await _searchRepository.ListAsync(query);
+            return await _searchRepository.ListAsync(index, query);
         }
     }
 }

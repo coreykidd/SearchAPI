@@ -7,6 +7,8 @@ namespace SearchAPI.Models
 {
     public class SearchResult
     {
-        public string Text { get; set; }
+        public string Subject { get; set; }
+        public string Body { get; set; }
+        public string ConversationId { get; set; }
     }
 }

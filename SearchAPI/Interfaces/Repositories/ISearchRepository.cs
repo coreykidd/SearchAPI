@@ -6,6 +6,6 @@ namespace SearchAPI.Interfaces.Repositories
 {
     public interface ISearchRepository
     {
-        Task<IEnumerable<SearchResult>> ListAsync(string query);
+        Task<IEnumerable<SearchResult>> ListAsync(string index, string query);
     }
 }

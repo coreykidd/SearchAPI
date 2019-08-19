@@ -12,3 +12,17 @@ C:\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.AssemblyInfo.cs
 C:\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.RazorTargetAssemblyInfo.cache
 C:\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.dll
 C:\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.pdb
+C:\Users\ckmaster\source\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.2\SearchAPI.deps.json
+C:\Users\ckmaster\source\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.2\SearchAPI.runtimeconfig.json
+C:\Users\ckmaster\source\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.2\SearchAPI.runtimeconfig.dev.json
+C:\Users\ckmaster\source\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.2\SearchAPI.dll
+C:\Users\ckmaster\source\repos\SearchAPI\SearchAPI\bin\Debug\netcoreapp2.2\SearchAPI.pdb
+C:\Users\ckmaster\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.csprojAssemblyReference.cache
+C:\Users\ckmaster\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.csproj.CoreCompileInputs.cache
+C:\Users\ckmaster\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.RazorAssemblyInfo.cache
+C:\Users\ckmaster\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.RazorAssemblyInfo.cs
+C:\Users\ckmaster\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.AssemblyInfoInputs.cache
+C:\Users\ckmaster\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.AssemblyInfo.cs
+C:\Users\ckmaster\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ckmaster\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.dll
+C:\Users\ckmaster\source\repos\SearchAPI\SearchAPI\obj\Debug\netcoreapp2.2\SearchAPI.pdb

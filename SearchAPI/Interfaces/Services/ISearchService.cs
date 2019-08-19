@@ -6,6 +6,6 @@ namespace SearchAPI.Interfaces.Services
 {
     public interface ISearchService
     {
-        Task<IEnumerable<SearchResult>> ListAsync(string query);
+        Task<IEnumerable<SearchResult>> ListAsync(string index, string query);
     }
 }
