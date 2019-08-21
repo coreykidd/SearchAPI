@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ckmaster\\source\\repos\\SearchAPI\\SearchAPI\\SearchAPI.csproj": {}
+    "C:\\repos\\SearchAPI\\SearchAPI\\SearchAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ckmaster\\source\\repos\\SearchAPI\\SearchAPI\\SearchAPI.csproj": {
+    "C:\\repos\\SearchAPI\\SearchAPI\\SearchAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ckmaster\\source\\repos\\SearchAPI\\SearchAPI\\SearchAPI.csproj",
+        "projectUniqueName": "C:\\repos\\SearchAPI\\SearchAPI\\SearchAPI.csproj",
         "projectName": "SearchAPI",
-        "projectPath": "C:\\Users\\ckmaster\\source\\repos\\SearchAPI\\SearchAPI\\SearchAPI.csproj",
-        "packagesPath": "C:\\Users\\ckmaster\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ckmaster\\source\\repos\\SearchAPI\\SearchAPI\\obj\\",
+        "projectPath": "C:\\repos\\SearchAPI\\SearchAPI\\SearchAPI.csproj",
+        "packagesPath": "C:\\Users\\ckidd\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\SearchAPI\\SearchAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ckmaster\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ckidd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -27,19 +27,10 @@ namespace SearchAPI.Repositories
            .Index(index)
            .From(0)
            .Size(10)
-           //.Query(q => q
-           //     .Match(m => m
-           //        .Field(f => f.Body)
-           //        .Query(query)
-           //        )
-           //    )
-           .Query(qry => qry
-               .Bool(b => b
-               .Must(m => m
-                   .QueryString(qs => qs
-                       .DefaultField("_all")
-                       .Query(query))))));
-            );
+            .Query(q => q
+                .QueryString(qs => qs
+                    .DefaultField("*")
+                    .Query(query))));
 
             var enumerable = searchResponse.Hits.Select(h => h.Source);
             return enumerable;
