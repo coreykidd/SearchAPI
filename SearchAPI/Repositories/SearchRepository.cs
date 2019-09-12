@@ -31,7 +31,7 @@ namespace SearchAPI.Repositories
             .Includes(i => i
                 .Fields(
                     p => p.Subject,
-                    p => p.ConversationId
+                    p => p.HexEntryId
                     )))
             .Query(q => q
                 .QueryString(qs => qs
@@ -52,7 +52,7 @@ namespace SearchAPI.Repositories
             foreach (var hit in searchResponse.Hits)
             {
                 string subject = hit.Source.Subject;
-                string conversationId = hit.Source.ConversationId;
+                string conversationId = hit.Source.HexEntryId;
                 string body = "";
                 foreach (var highlightCollection in hit.Highlight)
                 {

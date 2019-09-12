@@ -8,14 +8,14 @@ namespace SearchAPI.Models
     public class SearchResult
     {
         public string Subject { get; set; }
-        public string ConversationId { get; set; }
+        public string HexEntryId { get; set; }
         //public KeyValuePair<string, IReadOnlyCollection<string>> Highlight { get; set; }
         public string Body { get; set; }
 
-        public SearchResult(string subject, string conversationId, string body)
+        public SearchResult(string subject, string hexEntryId, string body)
         {
             this.Subject = subject;
-            this.ConversationId = conversationId;
+            this.HexEntryId = hexEntryId;
             this.Body = body;
         }
 
